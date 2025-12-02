@@ -1,4 +1,7 @@
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|--------|---------|---------|
-| Isi 1  | Isi 2   | Isi 3   |
-| Isi A  | Isi B   | Isi C   |
+# Data Produk
+
+| ID | Nama Produk    | Harga (IDR) | Stok |
+|----:|:---------------|-----------:|:----:|
+| 1  | Kopi Toraja    | 45.000     | 12   |
+| 2  | Teh Hitam      | 25.000     | 30   |
+| 3  | Roti Bakar     | 15.000     | 20   |
